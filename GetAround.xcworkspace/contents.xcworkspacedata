@@ -4,7 +4,4 @@
    <FileRef
       location = "group:GetAround.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:ThirdParty/CKRefreshControl/CKRefreshControl.xcodeproj">
-   </FileRef>
 </Workspace>
