@@ -1,0 +1,3 @@
+[submodule "ThirdParty/CKRefreshControl"]
+	path = ThirdParty/CKRefreshControl
+	url = https://github.com/instructure/CKRefreshControl.git
